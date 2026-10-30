@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="河北电视",河北卫视
+https://tv.pull.hebtv.com/jishi/weishipindao.m3u8
+
+#EXTINF:-1 group-title="河北电视",经济生活
+https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8
+
+#EXTINF:-1 group-title="河北电视",河北都市
+https://tv.pull.hebtv.com/jishi/dushipindao.m3u8
+
+#EXTINF:-1 group-title="河北电视",文旅体育
+https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8
+
+#EXTINF:-1 group-title="河北电视",少儿科教
+https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8
+
+#EXTINF:-1 group-title="河北电视",三农频道
+https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8
+
+#EXTINF:-1 group-title="河北电视",三佳购物
+https://tv.pull.hebtv.com/zhibo/sanjiagouwu.m3u8
